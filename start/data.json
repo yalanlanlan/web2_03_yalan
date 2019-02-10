@@ -1,0 +1,71 @@
+{
+    "places": [
+    {
+        "place": "New York",
+        
+        "year": "2018-"
+    },
+    {
+        "place": "Pennsylvania",
+        
+        "year": "2018,Nov."
+    },
+    {
+        "place": "Paris",
+        
+        "year": "2017,Apr."
+    },
+    {
+        "place": "Tokyo",
+        
+        "year": "2006,2009"
+    },
+    {
+        "place": "Beijing",
+        
+        "year": "2017"
+    },
+    {
+        "place": "Taipei",
+       
+        "year": "2011-2018"
+    },
+    {
+        "place": "Firence",
+        
+        "year": "2017,Apr."
+    },
+    {
+        "place": "Roma",
+        
+        "year": "2017,Apr."
+    },
+    {
+        "place": "Dun Huang",
+        
+        "year": "2017,May."
+    },
+    {
+        "place": "Boston",
+        
+        "year": "2018,Oct."
+    }
+    ]
+    ,
+    "products": [
+        {
+           "name": "Levis Blue Denim",
+           "imgPath": "img/_DSC1452.JPG"
+        },
+        {
+           "name": "Pepe Black Jeans",
+           "imgPath": "images/prods/pepeblackjeans01.jpg"
+        },
+        {
+           "name": "Pepe Blue Jeans",
+           "imgPath": "images/prods/pepebluejeans01.jpg"
+        }
+    ]
+}
+
+    
